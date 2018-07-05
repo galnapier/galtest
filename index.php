@@ -7,3 +7,4 @@
  */
 
 echo ('Welcome to my Netbeans Git test.');
+echo ('Wonder what happens now?');
