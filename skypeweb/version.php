@@ -21,6 +21,9 @@
  * @copyright (C) 2014 onwards Microsoft, Inc. (http://microsoft.com/)
  */
 
+
+// added by GAL
+
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->version = 2017111301;
